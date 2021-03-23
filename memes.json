@@ -3,5 +3,20 @@
         "name": "alan.mp4",
         "isVideo": true,
         "url": "https://static.pog.ceo/alan.mp4"
+    },
+    {
+        "name": "Mom's spaghetti",
+        "isVideo": true,
+        "url": "https://preview.redd.it/3d3elbu5kso61.gif?width=640&format=mp4&s=8d091d1f5c6a494bf7488bfe4a6ac61344edd24a"
+    },
+    {
+        "name": "Ouch",
+        "isVideo": false,
+        "url": "https://preview.redd.it/1p12hdybsso61.jpg?width=640&crop=smart&auto=webp&s=a3c93d90230c854c87d227035581c170c7f91fc4"
+    },
+    {
+        "name": "Big Brain",
+        "isVideo": false,
+        "url": "https://i.redd.it/bhrbel8ztro61.jpg"
     }
 ]
