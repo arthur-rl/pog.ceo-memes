@@ -28,5 +28,10 @@
         "name": "patriotism",
         "isVideo": true,
         "url": "https://cdn.discordapp.com/attachments/467759235904569365/824074734043791391/video0.mov"
+    },
+    {
+        "name": "cheese",
+        "isVideo": true,
+        "url": "https://static.pog.ceo/media/cheese.mp4"
     }
 ]
